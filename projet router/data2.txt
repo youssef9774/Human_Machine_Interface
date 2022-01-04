@@ -1,0 +1,20 @@
+le nom de routeur : ys
+ le passerelle par defaut : yy 
+  @ IP / Masque : ss 
+ l'interface  : 4454
+===================
+le nom de routeur : 1
+ le passerelle par defaut : 2 
+  @ IP / Masque : 3 
+ l'interface  : 1
+===================
+le nom de routeur : 77
+ le passerelle par defaut : sdfn 
+  @ IP / Masque : skd,nf,l;sdfn 
+ l'interface  : klsd,fk,sdf
+===================
+le nom de routeur : aaa
+ le passerelle par defaut : zzzz 
+  @ IP / Masque : eee 
+ l'interface  : rrrr
+===================

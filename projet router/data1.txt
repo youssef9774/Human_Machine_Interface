@@ -1,0 +1,20 @@
+le nom de routeur : youssef1
+ le passerelle par defaut : 192.168.1.4 
+  @ IP / Masque : 192.168.1.77/24
+ l'interface  : eth0
+===================
+le nom de routeur : yousseffff
+ le passerelle par defaut : 192.168.1.5 
+  @ IP / Masque : 192.168.1.50/24
+ l'interface  : eth0
+===================
+le nom de routeur : youssef
+ le passerelle par defaut : 192.168.1.5/24 
+  @ IP / Masque : 192.168.1.88/24 
+ l'interface  : eth1
+===================
+le nom de routeur : youssef
+ le passerelle par defaut : 192.168.1.5/24 
+  @ IP / Masque : 192.168.1.88/24 
+ l'interface  : eth1
+===================
